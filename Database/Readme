@@ -1,0 +1,27 @@
+# Overview
+
+I created a basic database for use on a simple puzzle game. 
+
+This database is used to store information about npcs and player characters.
+
+[Software Demo Video](http://youtube.link.goes.here)
+
+# Relational Database
+
+The structure of the database is really simple. Theres a table for npcs, and a table for players. I made it so they shared a level column, so you could query and find the npcs on the same level as the player. 
+
+# Development Environment
+
+To run this database, I used beekeeper studio.
+
+The language was SQLlite
+
+# Useful Websites
+
+- [SqlLiteTutorial](https://www.sqlitetutorial.net)
+
+# Future Work
+
+
+- In the future, I will be adding actual functionality to the database, by attaching it to the game, and creating queries that way. 
+- I also need to fill out the database, once my team finalizes our npcs. 
