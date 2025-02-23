@@ -1,0 +1,25 @@
+# Overview
+
+This is a simple program in c#, that allows you to create tasks for yourself, and reecord their completion.
+
+It shows off many key features of c#, including classes, inheritance, and program functionality.
+
+
+[Software Demo Video](http://youtube.link.goes.here)
+
+# Development Environment
+
+The program was written in c#, using just that base functionality.
+
+# Useful Websites
+
+{Make a list of websites that you found helpful in this project}
+
+- [Web Site Name](https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/?view=vs-2022)
+
+
+# Future Work
+
+- There could be more functionality added, such as a graphical user interface
+- A timer on tasks,
+- or even a system to save and load tasks to a file. 
