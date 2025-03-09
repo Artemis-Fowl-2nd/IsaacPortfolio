@@ -1,0 +1,26 @@
+# Overview
+
+I made a basic cloud database with firebase, it holds rough information about a hypothetical company's employees. 
+
+I did this to show my experience with cloud data. 
+
+# Cloud Database
+
+I used firestore, a free google based cloud aplication. 
+
+its a simple structure, one table with info about employees. 
+
+# Development Environment
+
+i used the dedicated graphical user iterface that firbase has for most of it, it simplified things a lot. 
+
+# Useful Websites
+
+
+- https://www.guru99.com/nosql-tutorial.html
+
+# Future Work
+
+
+- this really could use a lot of work, its just a basic proof of concept. 
+- another table with more information would be great to include. 
